@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicName: Polish-cow
   animationName: BreakDance
-  notesConfig: {fileID: 0}
+  notesConfig: {fileID: 4900000, guid: cb9f6980940bb094e9d981f83cd281d4, type: 3}
+  speed: 8
