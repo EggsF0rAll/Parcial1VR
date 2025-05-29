@@ -24,10 +24,12 @@ public class Timer : MonoBehaviour
         duration--;
         if (duration > 0)
         {
-            StartCoroutine(RunTimer(duration));
+            
+            _timerCoroutine = StartCoroutine(RunTimer(duration));
         }
         else
         {
+            _timerCoroutine = null;
             _onTimerFinished?.Invoke();
         }
     }

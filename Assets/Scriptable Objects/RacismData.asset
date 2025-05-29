@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: Modern-Talking
   animationName: Bboy
   notesConfig: {fileID: 4900000, guid: f2b160332e75d4b4f9da18e0d8d7ac7e, type: 3}
-  speed: 10
+  speed: 100

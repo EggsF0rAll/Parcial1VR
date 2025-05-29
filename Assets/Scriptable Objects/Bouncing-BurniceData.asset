@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: Bouncing-Burnice
   animationName: Gangnam
   notesConfig: {fileID: 4900000, guid: e5fef421fb5842c4c8701fb22f89e59c, type: 3}
-  speed: 12
+  speed: 100
